@@ -1,4 +1,11 @@
 Whose idea was it to use git? This is such a pain.
 
 Yes, it really is.
+<<<<<<< HEAD:.ipynb_checkpoints/Yu-Chen-checkpoint.txt
 So tough.
+=======
+
+
+I really hope that Seth finishes their part of the project soon. He's too busy looking at neural networks.
+But we can collaborate!
+>>>>>>> c4d0544722890682197794878ac8ee3a6f8998ca:adam.txt
