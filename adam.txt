@@ -1,1 +1,7 @@
 Whose idea was it to use git? This is such a pain.
+
+Yes, it really is.
+
+
+I really hope that Seth finishes their part of the project soon. He's too busy looking at neural networks.
+But we can collaborate!
